@@ -54,7 +54,3 @@ python index.py
 Disclaimer
 
 This script is intended for educational purposes only. Do not use it for malicious purposes. Unauthorized use of a keylogger is illegal and can lead to severe legal consequences.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
